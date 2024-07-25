@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-black?style=flat-square&logo=Jupyter-Notebook)
 
 #### 🎲
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
